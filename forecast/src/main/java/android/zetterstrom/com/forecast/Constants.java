@@ -21,7 +21,7 @@ package android.zetterstrom.com.forecast;
  */
 public final class Constants {
 
-    static final String API_BASE_URL = "https://api.forecast.io/forecast/";
+    static final String API_BASE_URL = "https://api.darksky.net/forecast/";
 
     static final String OPTIONS_LANGUAGE = "lang";
     static final String OPTIONS_UNIT = "units";
