@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Snow</string>
-    <string name="api_attribution">Powered by Forecast</string>
+    <string name="api_attribution">Powered by Dark Sky</string>
     <string name="snowfall_none">No snow is expected</string>
     <string name="snowfall_some">of snow is expected!</string>
     <string name="snowfall_amount">%1$.2f inches</string>
